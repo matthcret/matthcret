@@ -19,9 +19,17 @@ I work across discovery, strategy, experiments, and delivery—staying close to 
 - **Product analytics.** Instrumentation, funnels, cohorts, behavioral data, and decision-making grounded in evidence.
 - **AI & complex B2B products.** Building products across technical domains with multiple stakeholders, long workflows, and real operational constraints.
 
-#### How I work
+#### Skills & tools
 
-Customer interviews · Opportunity mapping · Rapid prototyping · A/B testing · Funnel & cohort analysis · Roadmapping · GTM · OKRs
+**Entrepreneurship:** `Market analysis` · `Fundraising & pitching` · `Sales & marketing` · `Financial planning` · `Strategy`
+
+**Product management:** `Workflow discovery` · `Failure-mode analysis` · `Product analytics` · `Evaluation design` · `OKRs`
+
+**Tech stack:** `R` · `Python` · `Git` · `SQL` · `HTML` · `CSS` · `JavaScript` · `TypeScript`
+
+**Frameworks & infrastructure:** `React` · `Flask` · `Firebase` · `OpenAI API` · `Agents & workflows` · `GCP` · `Supabase` · `GitHub` · `Resend`
+
+**Productivity:** `PostHog` · `ChatGPT` · `Codex` · `Claude` · `Claude Code` · `Perplexity` · `Jira` · `Data Studio` · `HubSpot` · `Google Workspace`
 
 #### Find me elsewhere
 
