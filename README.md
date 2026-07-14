@@ -1,38 +1,28 @@
-# Hi, I'm Matthieu 👋
+### Hi, I'm Matthieu 👋
 
-Senior Product Manager at **ClearOps**, leading the core product across 4 OEMs, 5 continents, and 28,000 users—and spearheading AI integration with TUM.
+**Senior Product Manager at ClearOps**, leading the core product across 4 OEMs, 5 continents, and 28,000 users, and spearheading AI integration with TUM.
 
-I exist somewhere at the intersection of startups, code, and questionable life decisions. Currently building, shipping, and occasionally breaking things.
+Previously **Co-Founder & Managing Director at SuperInterface**, where I built a GenAI email copilot that reached Product Hunt's daily Top 10 and 250 paying customers. Before that, I held product and leadership roles at Netlight and Mecuris, following earlier work in automotive innovation and software engineering.
 
-Previously, I co-founded **SuperInterface**, a GenAI email copilot that reached Product Hunt's daily Top 10 and 250 paying customers. Before that, I worked across product, consulting, medtech, automotive, and software engineering at Netlight, Mecuris, Fiat Chrysler Automobiles, and ÅF (now AFRY).
+I work across discovery, strategy, experiments, and delivery—staying close to users and data while helping teams turn complex problems into products that ship.
 
-## What I work on
+- 🏗️ Product experience across enterprise software, e-mobility, ESG analytics, medtech, automotive, and AI.
+- 📈 Launched a B2B platform from zero to six-digit MRR with 85% CMGR.
+- 🎓 MBA (CDI Italia) · M.Sc. Vehicle Engineering (KTH) · B.Sc. Automotive (Politecnico di Torino).
+- 🌍 Italian native · Fluent English · Professional French, Swedish, and German.
+- 📍 Munich, Germany.
 
-**Product leadership.** Taking complex products from strategy through delivery, GTM, technical enablement, and hypercare.
+#### What I work on
 
-**AI & startups.** Building and advising products, mentoring founders, and occasionally angel investing in early-stage startups.
+- **Product discovery.** Customer research, problem framing, opportunity assessment, and translating insight into clear product bets.
+- **Experiments & PLG.** Hypothesis-driven experiments, fast feedback loops, activation, adoption, and product-led growth.
+- **Product analytics.** Instrumentation, funnels, cohorts, behavioral data, and decision-making grounded in evidence.
+- **AI & complex B2B products.** Building products across technical domains with multiple stakeholders, long workflows, and real operational constraints.
 
-**Code & side projects.** Vibe-coded slop, capstone assignments, experiments, and evidence that I occasionally write code.
+#### Product tools I reach for
 
-**Writing.** Long-form thoughts about startups, tech, and whatever else seemed interesting at 2am. Sporadic schedule. No algorithm.
+Product discovery · Experimentation · PLG · Product analytics · AI prototyping · Roadmapping · GTM · Agile & OKRs
 
-## A few receipts
+#### Find me elsewhere
 
-- Launched a B2B e-mobility platform from zero to six-digit MRR with 85% CMGR.
-- Led six developers at a Series A medtech startup and increased velocity by 30%.
-- Reduced automotive testing time by 70% as a software engineer.
-- MBA from CDI Italia, M.Sc. Vehicle Engineering from KTH, and B.Sc. Automotive from Politecnico di Torino.
-- Italian native; fluent English; professional French, Swedish, and German.
-
-## Currently printing
-
-**Peekaboo** — a private prediction platform that turns a baby's arrival into a family adventure.
-
-## Find me elsewhere
-
-[Website](https://originalmatth.com) · [LinkedIn](https://linkedin.com/in/matthieucretier) · [X](https://x.com/originalmatth) · [Dahu Dispatch](https://dahu.substack.com) · [Instagram](https://instagram.com/originalmatth)
-
----
-
-Technology · AI · Entrepreneurship · Investments · Movies · 🏂 · 🏄 · 🧗  
-☕ Made with caffeine and questionable judgment
+[Website](https://originalmatth.com) · [LinkedIn](https://linkedin.com/in/matthieucretier) · [X](https://x.com/originalmatth) · [Dahu Dispatch](https://dahu.substack.com)
