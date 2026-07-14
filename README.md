@@ -19,9 +19,9 @@ I work across discovery, strategy, experiments, and delivery—staying close to 
 - **Product analytics.** Instrumentation, funnels, cohorts, behavioral data, and decision-making grounded in evidence.
 - **AI & complex B2B products.** Building products across technical domains with multiple stakeholders, long workflows, and real operational constraints.
 
-#### Product tools I reach for
+#### How I work
 
-Product discovery · Experimentation · PLG · Product analytics · AI prototyping · Roadmapping · GTM · Agile & OKRs
+Customer interviews · Opportunity mapping · Rapid prototyping · A/B testing · Funnel & cohort analysis · Roadmapping · GTM · OKRs
 
 #### Find me elsewhere
 
