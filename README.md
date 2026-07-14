@@ -21,15 +21,15 @@ I work across discovery, strategy, experiments, and delivery—staying close to 
 
 #### Skills & tools
 
-**Entrepreneurship:** `Market analysis` · `Fundraising & pitching` · `Sales & marketing` · `Financial planning` · `Strategy`
+`**Entrepreneurship:**` `Market analysis` · `Fundraising & pitching` · `Sales & marketing` · `Financial planning` · `Strategy`
 
-**Product management:** `Workflow discovery` · `Failure-mode analysis` · `Product analytics` · `Evaluation design` · `OKRs`
+`**Product management:**` `Workflow discovery` · `Failure-mode analysis` · `Product analytics` · `Evaluation design` · `OKRs`
 
-**Tech stack:** `R` · `Python` · `Git` · `SQL` · `HTML` · `CSS` · `JavaScript` · `TypeScript`
+`**Tech stack:**` `R` · `Python` · `Git` · `SQL` · `HTML` · `CSS` · `JavaScript` · `TypeScript`
 
-**Frameworks & infrastructure:** `React` · `Flask` · `Firebase` · `OpenAI API` · `Agents & workflows` · `GCP` · `Supabase` · `GitHub` · `Resend`
+`**Frameworks & infrastructure:**` `React` · `Flask` · `Firebase` · `OpenAI API` · `Agents & workflows` · `GCP` · `Supabase` · `GitHub` · `Resend`
 
-**Productivity:** `PostHog` · `ChatGPT` · `Codex` · `Claude` · `Claude Code` · `Perplexity` · `Jira` · `Data Studio` · `HubSpot` · `Google Workspace`
+`**Productivity:**` `PostHog` · `ChatGPT` · `Codex` · `Claude` · `Claude Code` · `Perplexity` · `Jira` · `Data Studio` · `HubSpot` · `Google Workspace`
 
 #### Find me elsewhere
 
