@@ -2,7 +2,7 @@
 
 **Senior Product Manager at ClearOps**, leading the core product across 4 OEMs, 5 continents, and 28,000 users, and spearheading AI integration with TUM.
 
-Previously **Co-Founder & Managing Director at SuperInterface**, where I built a GenAI email copilot that reached Product Hunt's daily Top 10 and 250 paying customers. Before that, I held product and leadership roles at Netlight and Mecuris, following earlier work in automotive innovation and software engineering.
+Previously **Co-Founder & Managing Director at SuperInterface**, where I built a GenAI email copilot that reached Product Hunt's daily Top 10 and 250 paying customers. Earlier, I led product initiatives at Netlight and Mecuris, after beginning my career in automotive innovation and software engineering.
 
 I work across discovery, strategy, experiments, and delivery—staying close to users and data while helping teams turn complex problems into products that ship.
 
